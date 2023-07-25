@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.inicio{
+    background-image: url(../imagenes/firma.png);
+    background-size: cover;
+    min-height: 300px;
+    text-align: center;
+    align-items: center;
+    padding: 2%;
+}
+#correo{
+    color: white;
+    font-size: 28px;
+    font-weight: 900;
+}
+#hastag{
+    color: #9afa00;
+    font-size: 28px;
+    font-weight: 100;
+}
+#imgRedonda {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+}
